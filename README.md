@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar15&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar15" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumar15" alt="ankitkumar15" /></a> </p>
+
 - 🔭 I’m currently working on [Trade Behavior Analysis Using Market Sentiment](https://github.com/Ankitkumar1511/Trader-Behavior-Analysis-Using-Market-Sentiment/blob/main/A%20Trader_Sentiment_Analysis.ipynb)
 
 - 🌱 I’m currently learning **Machine Learning**
