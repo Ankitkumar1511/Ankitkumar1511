@@ -21,8 +21,8 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar15&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar1511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar1511&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -30,12 +30,12 @@
 # ⭐ GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkumar15&theme=tokyonight" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkumar1511&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkumar15&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitkumar15&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkumar1511&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitkumar1511&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar15&theme=tokyonight&hide_border=true" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar1511&theme=tokyonight&hide_border=true" width="90%"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar15&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar1511&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
